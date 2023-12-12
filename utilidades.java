@@ -45,6 +45,7 @@ public class utilidades {
 
 	}
 	public static void ordenarVector(int [] vec){
+		//de menor a mayor
 		int z=1;
 		boolean cambio=true;
 		int aux;
