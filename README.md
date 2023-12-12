@@ -1,2 +1,2 @@
 > [!NOTE]
-> Repositorio de pruebas de java
+> REPOSITORIO DE PRUEBAS DE JAVA
